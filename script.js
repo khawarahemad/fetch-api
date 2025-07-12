@@ -1,4 +1,4 @@
-](function () {
+(function () {
     // Max log entries to prevent localStorage bloat
     const MAX_LOGS = 100;
 
